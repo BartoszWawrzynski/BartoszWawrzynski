@@ -2,7 +2,7 @@
 - 👀 I’m interested in Softwer Enginering, History and PC
 - 🌱 I’m currently learning C#, JS, PHP and curently working on C++
 - 💞️ I’m looking to collaborate on Web Projects, but if you give me some time, I can learn whatever is needed
-- 📫 How can you reach me? You can always write me e-mail: "bartoszwawrzynski2007@gmail.com"
+- 📫 How can you reach me? You can always write me an e-mail: "bartoszwawrzynski2007@gmail.com"
 
 
 <!---
